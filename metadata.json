@@ -1,0 +1,5 @@
+{
+  "name": "SQLean.fyi",
+  "description": "An intelligent tool that uses the Gemini API to analyze queries and code for BigQuery, Snowflake, Redshift, Azure Synapse, MySQL, PostgreSQL, MongoDB, and DynamoDB, identifying anti-patterns and suggesting optimizations to reduce cloud costs.",
+  "requestFramePermissions": []
+}
